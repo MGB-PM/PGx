@@ -1,0 +1,12 @@
+GeneGroup	FDA-Drugs with PGx Labelling
+TPMT	Azathioprine, Mercaptopurine, Thioguanine
+NUDT15	Azathioprine, Mercaptopurine, Thioguanine
+IFNL3	Peginterferon Alfa-2b
+CYP2C9	Celecoxib, Dronabinol, Erdafitinib, Flibanserin, Flurbiprofen, Lesinurad, Phenytoin, Piroxicam, Siponimod
+CYP2C19	Brivaracetam, Carisoprodol, Citalopram, Clobazam, Clopidogrel, Dexlansoprazole, Diazepam, Doxepin, Escitalopram, Esomeprazole, Flibanserin, Omeprazole, Pantoprazole, Rabeprazole, Voriconazole
+CYP2C9	Warfarin
+VKORC1	Warfarin
+SLCO1B1	Elagolix, Rosuvastatin
+DPYD	Capecitabine, Fluorouracil
+CYP3A5	N/A
+CYP4F2	N/A
